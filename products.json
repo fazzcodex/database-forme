@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Bot Telegram Auto Order OTP",
+    "integration": "Rumah OTP",
+    "price": 40000,
+    "type": "NodeJS",
+    "features": [
+      "Deposit Otomatis QRIS",
+      "List Negara",
+      "List Layanan",
+      "List Provider",
+      "Statistik"
+    ]
+  },
+  {
+    "title": "Website Auto Order SMM Panel",
+    "integration": "Custom / Midtrans",
+    "price": 200000,
+    "type": "ExpressJS, EJS, Supabase",
+    "features": [
+      "Dashboard",
+      "Landing Page Premium",
+      "Login & Register",
+      "Top 5 User",
+      "Tiket",
+      "Deposit",
+      "Riwayat Order",
+      "Cek Pesanan"
+    ]
+  }
+]
